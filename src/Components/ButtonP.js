@@ -5,7 +5,7 @@ import './ButtonP.css';
 const ButtonP = () => {
     return (
         <>
-            <Link to=''>
+            <Link to='/products'>
                 <button>
                     Purchase Services for $2500.00
                 

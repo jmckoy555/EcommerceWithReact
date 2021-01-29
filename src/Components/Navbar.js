@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
-import { Button } from './Button';
+
 
 function Navbar() {
     // Setting state for the click on menu, intial state is false to have the hamburger.
@@ -62,12 +62,11 @@ function Navbar() {
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/contact' className='nav-links-mobile' onClick={closeMobileMenu}>
+                            <Link to='/contact' className='nav-links' onClick={closeMobileMenu}>
                                 Contact Us
                             </Link>
                         </li>
                     </ul>
-                    {button && <Button buttonStyle='btn--outline'>Contact Us!</Button>}
                 </div>
             </nav>
         </>

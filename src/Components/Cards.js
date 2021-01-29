@@ -5,35 +5,49 @@ import './Cards.css';
 function Cards() {
     return (
         <div className='cards'>
-            <h1>Bookings for Any Occassion!</h1>
+            <h1>The Cotton Club offers years of service and expertise at your disposal!</h1>
             <div className='cards__container'>
                 <div className='cards__wrapper'>
                     <ul className='cards__items'>
                         <CardItem
-                            src='/images/Concerting.jpg'
-                            text='We offer artist who are able to pack out venues. If you are looking for big name talent to sell out your venue we have them here!'
-                            label='Concerts'
-                            path='/products' />
+                            src='images/confetti.jpg'
+                            text='The Cotton Club offers an extensive resource pool to help you pull off a awesome event.'
+                            label='Excitement'
+                            path='/products'
+                        />
                         <CardItem
-                            src='/images/Gathering.jpg'
-                            text='Intimate gatherings are special and here at The Cotton Club we want to make it special. We can give you an artist to fit your specific needs no matter how small the gathering may be.'
-                            label='Social Gatherings'
-                            path='/products' />
+                            src='images/jcole2.jpg'
+                            text='We have partnered with multiple agents and entertainers to help bring you top of the line artist and creators.'
+                            label='Talent'
+                            path='/products'
+                        />
+                    </ul>
+                    <ul className='cards__items'>
                         <CardItem
-                            src='/images/Worship.jpg'
-                            text='We have also have a talented group of gospel and worship artists who can help bring in your worship and Sunday services the correct way.'
-                            label='Worship Services'
-                            path='/products' />
+                            src='images/heroimg.jpeg'
+                            text='Our mission is to bring out the inner creative in anyone.'
+                            label='Creatives'
+                            path='/products'
+                        />
                         <CardItem
-                            src='/images/Birthday.jpg'
-                            text='We want to help make your special day...special! Wether it is personal happy birthday calls or messages to in person birthday concerts we can help you book your favorite.'
-                            label='Birthdays'
-                            path='/products' />
+                            src='images/OutsidePer.jpg'
+                            text='We have artist that can fill up the Sydney Opera House as well as your local entertainment venue.'
+                            label='Venues'
+                            path='/products'
+                        />
+                        <CardItem
+                            src='images/Gathering.jpg'
+                            text='The Cotton Club seeks to bring together creatives in a community network!'
+                            label='Community'
+                            path='/contact'
+                        />
                     </ul>
                 </div>
             </div>
-        </div >
-    )
+        </div>
+    );
 }
 
-export default Cards
+export default Cards;
+
+
