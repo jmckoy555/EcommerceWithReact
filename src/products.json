@@ -1,0 +1,98 @@
+[
+    {
+        "productid": 1,
+        "artistname": "Da Baby",
+        "desc": "DaBaby is an American rapper and songwriter from Charlotte, North Carolina. After releasing several mixtapes between 2014 and 2018, DaBaby rose to mainstream prominence in 2019.",
+        "price": 1500
+    },
+    {
+        "productid": 2,
+        "artistname": "Megan Thee Stallion",
+        "desc": "Megan Thee Stallion is an American rapper, singer, and songwriter. Originally from Houston, Texas, she first garnered attention when videos of her freestyling became popular on social media platforms such as Instagram.",
+        "price": 1500
+    },
+    {
+        "productid": 3,
+        "artistname": "NLE Choppa",
+        "desc": "NLE Choppa is an American rapper and Internet personality. He rose to fame with his January 2019 single Shotta Flow, which was certified platinum by the RIAA and peaked at number 36 on the Billboard Hot 100",
+        "price": 1500
+    },
+    {
+        "productid": 4,
+        "artistname": "Lil Baby",
+        "desc": "Lil Baby is an American rapper and songwriter from Atlanta, Georgia. He rose to mainstream fame in 2017 following the release of his mixtape Perfect Timing, becoming one of the most prominent figures in the trap music scene to date. ",
+        "price": 1500
+    },
+    {
+        "productid": 5,
+        "artistname": "Giveon",
+        "desc": "Giveon is an American R&B singer and songwriter. He rose to prominence with his feature on Drakes 2020 single Chicago Freestyle, which peaked at number 14 on the Billboard Hot 100.",
+        "price": 1500
+    },
+    {
+        "productid": 6,
+        "artistname": "Ari Lennox",
+        "desc": "Ari Lennox is an American R&B singer-songwriter from Washington, D.C.. She is the first female artist to be signed to J. Coles record label, Dreamville Records. She released her first EP Pho on the label in 2016, when she began gaining recognition.",
+        "price": 1500
+    },
+    {
+        "productid": 7,
+        "artistname": "Anderson.Paak",
+        "desc": "Anderson Paak, is an American singer, songwriter, rapper, record producer and multi-instrumentalist from Oxnard, California. He released his debut mixtape, O.B.E. Vol. 1 in 2012 and went on to release Venice in 2014.",
+        "price": 1500
+    },
+    {
+        "productid": 8,
+        "artistname": "Bryson Tiller",
+        "desc": "Bryson Djuan Tiller is an American singer, rapper, and songwriter. Born in Louisville, Kentucky, he started his career in 2011, releasing the debut mixtape titled Killer Instinct Vol.1.",
+        "price": 1500
+    },
+    {
+        "productid": 9,
+        "artistname": "Miranda Curtis",
+        "desc": "Maranda Curtis is an American gospel singer and praise and worship leader formerly with The Potters House Church, Dallas.",
+        "price": 1500
+    },
+    {
+        "productid": 10,
+        "artistname": "Todd Dulaney",
+        "desc": "Todd Dulaney is a gospel musician, and former baseball player. His music career started in 2011, with the release of the CD version, Pulling Me Through. This would be his breakthrough released upon the Billboard Gospel Albums chart.",
+        "price": 1500
+    },
+    {
+        "productid": 11,
+        "artistname": "Kierra KiKi Sheard",
+        "desc": "Kierra Kiki Sheard-Kelly is an American gospel singer, songwriter, fashion designer, actress, entrepreneur, and creative director. She is the daughter of gospel singer Karen Clark Sheard member of gospel singing group and the granddaughter of gospel choral director Mattie Moss Clark.",
+        "price": 1500
+    },
+    {
+        "productid": 12,
+        "artistname": "Erica Campbell",
+        "desc": "Erica Campbell is an urban contemporary gospel singer and songwriter. She started her music career in 1998 with her younger sister, Tina Campbell, as part of the gospel music group, Mary Mary.",
+        "price": 1500
+    },
+    {
+        "productid": 13,
+        "artistname": "Beyonce Knowles-Carter",
+        "desc": "Beyoncé Giselle Knowles-Carter is an American singer, songwriter, actress, and record producer. Born and raised in Houston, Texas, Beyoncé performed in various singing and dancing competitions as a child.",
+        "price": 3500
+    },
+    {
+        "productid": 14,
+        "artistname": "Cardi B",
+        "desc": "Cardi B is an American rapper, songwriter, and actress. Born in Manhattan and raised in the Bronx, New York City, she became an Internet celebrity by achieving popularity on Vine and Instagram",
+        "price": 3500
+    },
+    {
+        "productid": 15,
+        "artistname": "Kirk Franklin",
+        "desc": "Kirk Dewayne Franklin is an American choir director, gospel musician, singer, songwriter, and author. He is best known for leading urban contemporary gospel choirs such as The Family, Gods Property, and One Nation Crew among many others. He has won numerous awards, including 16 Grammy Awards.",
+        "price": 3500
+    },
+    {
+        "productid": 16,
+        "artistname": "Kendrick Lamar",
+        "desc": "Kendrick Lamar Duckworth is an American rapper, songwriter, and record producer. Since his mainstream debut in 2012 with Good Kid, M.A.A.D. City, Lamar has been regarded as one of the most influential artists of his generation, as well as one of the greatest rappers and lyricists of all time.",
+        "price": 3500
+    }
+]

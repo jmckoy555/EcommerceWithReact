@@ -16,7 +16,9 @@ export default function validateInfo(values) {
     if (!values.phonenumber) {
         errors.phonenumber = 'Phone number is required';
     } else if (values.phonenumber.length > 10) {
-        errors.phonenumber = 'Phone number cannot exceed 10 characters.';
+        errors.phonenumber = 'Phone number cannot exceed 10 numbers.';
+    } else if (values.phonenumber.length < 10) {
+        errors.phonenumber = 'Phone number has to exceed more than 9 numbers.';
     }
 
     // if (!values.password2) {
